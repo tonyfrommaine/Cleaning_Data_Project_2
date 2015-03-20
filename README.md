@@ -1,7 +1,7 @@
 Files contained are in support of Getting and Cleaning Data Project 2.
 Directions from Class follows
 
-## Project 2 for Cleaning Data ##                                     
+## Project 2 for Cleaning Data                                    
 
  Directions from Class follows
  You should create one R script called run_analysis.R that does               
